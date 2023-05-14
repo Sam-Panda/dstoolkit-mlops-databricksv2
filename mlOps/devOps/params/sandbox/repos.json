@@ -1,7 +1,7 @@
 {
     "Git_Configuration":  [
                               {
-                                  "git_username":  null,
+                                  "git_username":  "Sam-Panda",
                                   "git_provider":  "gitHub"
                               }
                           ],
